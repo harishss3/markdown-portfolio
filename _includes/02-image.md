@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Orion Nebula](http://home.iitk.ac.in/~harishss/orion.jpg)
